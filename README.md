@@ -1,6 +1,14 @@
-# Movie Search App
+**COMPANY**: CODTECH IT SOLUTIONS<br>
+**NAME**: Gagan Mandal<br>
+**INTERN**: CT08JWM<br>
+**DOMAIN**: React.js Web Development<br>
+**BATCH DURATION**: January 5th, 2025 to February 5th, 2025<br>
+**MENTOR NAME**: Neela Santhosh Kumar<br>
 
-Welcome to the Movie Search App! This web application allows users to search for information about movies, including details such as title, release year, plot summary, cast, and more. It provides a seamless and intuitive interface for users to discover and explore their favorite movies.
+
+# DESCRIPTION : **(Movie Search App)**
+   This web application allows users to search for information about movies, including details such as title, release year, plot summary, 
+   cast, and more. It provides a seamless and intuitive interface for users to discover and explore their favorite movies.
 
 ## Features
 

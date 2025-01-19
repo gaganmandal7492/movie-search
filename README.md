@@ -29,12 +29,12 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/harshit0075/movie-search.git
+    git clone https://github.com/gaganmandal7492/movie-search.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd movie-search-app
+    cd movie-search
     ```
 
 3. Install dependencies:
@@ -60,20 +60,17 @@ The Movie Search App is deployed and accessible via this [link](https://6601c4d2
 3. Click on a movie to view detailed information about it.
 4. Enjoy exploring and discovering new movies!
 
-## Screenshots!
-**HomePage**
+## Screenshots/outputs !
+
 ![Screenshot 2024-03-26 001006](https://github.com/harshit0075/movie-search/assets/112869167/54bf60d0-e17f-46de-8434-481bdd105bec)
 
-**Details**
+
 ![Screenshot 2024-03-26 001024](https://github.com/harshit0075/movie-search/assets/112869167/2cf39ec7-c698-44f3-b4bc-b04870ec34d1)
 
-**Searchs**
+
 ![Screenshot 2024-03-26 001104](https://github.com/harshit0075/movie-search/assets/112869167/ba0191bc-89bf-4559-afb5-97b97e20c553)
-![Screenshot 2024-03-26 001145](https://github.com/harshit0075/movie-search/assets/112869167/9a8ea87a-fadd-4e99-963d-a6436bf4f9f2)
 
-**Responsivness**
 
-![Screenshot 2024-03-26 001230](https://github.com/harshit0075/movie-search/assets/112869167/4dd347a6-2c0e-417a-b3ae-9d403c764d86)
 
 ## Contributing
 

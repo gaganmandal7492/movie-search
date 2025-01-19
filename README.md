@@ -49,10 +49,6 @@
 
 5. Open your web browser and visit `http://localhost:3000` to access the application.
 
-## Deployment
-
-The Movie Search App is deployed and accessible via this [link](https://6601c4d2829f002c9fc64d56--dainty-kataifi-2e1d20.netlify.app/).
-
 ## Usage
 
 1. Enter the title of the movie you want to search for in the provided search bar.
@@ -65,10 +61,8 @@ The Movie Search App is deployed and accessible via this [link](https://6601c4d2
 ![Screenshot 2024-03-26 001006](https://github.com/harshit0075/movie-search/assets/112869167/54bf60d0-e17f-46de-8434-481bdd105bec)
 
 
-![Screenshot 2024-03-26 001024](https://github.com/harshit0075/movie-search/assets/112869167/2cf39ec7-c698-44f3-b4bc-b04870ec34d1)
+![Screenshot 2025-01-19 204059](https://github.com/user-attachments/assets/d4c05fe3-3bb1-49b6-8215-8d3c0b3a7fdf)
 
-
-![Screenshot 2024-03-26 001104](https://github.com/harshit0075/movie-search/assets/112869167/ba0191bc-89bf-4559-afb5-97b97e20c553)
 
 
 
